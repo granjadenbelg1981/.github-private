@@ -66,7 +66,7 @@
     "@angular-devkit/build-angular": "^19.2.27",
     "@angular/cli": "^19.2.27",
     "@angular/compiler-cli": "^19.2.25",
-    "@codedependant/semantic-release-docker": "^5.1.1",
+    "@codedependant/semantic-release-docker": "^8.0.0",
     "@commitlint/config-conventional": "^20.5.3",
     "@types/jasmine": "^6.0.0",
     "@types/jasminewd2": "^2.0.10",
