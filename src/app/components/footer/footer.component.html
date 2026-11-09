@@ -1,0 +1,12 @@
+<div class="footer" aria-label="Build information">
+  <div
+    class="version-info"
+    [title]="buildDetails('Frontend', frontendBuildInfo)">
+    Frontend {{ formatVersion(frontendBuildInfo.version) }}
+  </div>
+  <div
+    class="version-info"
+    [title]="buildDetails('REST API', restApiBuildInfo)">
+    REST API {{ formatVersion(restApiBuildInfo.version) }}
+  </div>
+</div>
